@@ -33,4 +33,4 @@ function deMariaParaJoao(){
     setMaria(0);
 }
 
-export{getJoao, getMaria, setJoao, setMaria, deJoaoParaMaria, deMariaParaJoao}
+export{getJoao, getMaria, deJoaoParaMaria, deMariaParaJoao, setJoao, setMaria}
